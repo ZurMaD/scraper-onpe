@@ -6,6 +6,8 @@ Dos formas: API, WEB
 
 ## API
 
+Source: https://api.resultados.eleccionesgenerales2021.pe/mesas/detalle/000001
+
 Para descargar a la carpeta `actas_json/` ejecute
 
 ```
