@@ -1,2 +1,2 @@
 pandas
-selenium
+cloudscraper
